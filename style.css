@@ -1,0 +1,16 @@
+* {
+	font-family: arial;
+	font-size-adjust: 16px;
+}
+
+body {
+	background-color: #002413
+}
+
+main {
+	background-color: white;
+	width: 500px;
+	margin: auto;
+	padding: 10px;
+
+}
